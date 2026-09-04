@@ -1,4 +1,4 @@
-#  LPII-CineMais
+# 🎬 LPII-CineMais
 Sistema de gerenciamento de cinema desenvolvido em **Java**, criado para simular as principais operações de uma rede de cinemas.
 
 ## ✨ Funcionalidades
