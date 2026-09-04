@@ -58,7 +58,7 @@ O sistema implementa regras relacionadas ao cálculo dos ingressos. Entre elas:
 - Ingressos podem ser cancelados.
 
 ### 🖥️ Interface Gráfica
-A aplicação utiliza Java Swing para construção da interface gráfica.
+A aplicação utiliza **Java Swing** para construção da interface gráfica.
 
 ## 📄 Sobre o Projeto
 Projeto desenvolvido como atividade para a disciplina de Linguagem de Programação II.
